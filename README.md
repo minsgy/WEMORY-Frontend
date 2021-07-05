@@ -43,7 +43,7 @@
   - React Component 설계
   - React User JWT Auth 설계
   - React Module 설계
-  - Redux State
+  - Redux State 설계
 
 - 19학번 의용메카트로닉스공학과 [하유민](https://github.com/qhahd78)
   - Web/WebApp UI 설계
